@@ -1,0 +1,6 @@
+# 金融投资理财股票基金平台源码理财系统每日返利资金投资金融
+
+lavel源码（手端uniapp打包、PC端npm打包），编译后运行是js+php<br>分为编译后和未编译前源码 <br>您的信任与支持是我们持续提供更好更完美的程序前提！<br>价格1：编译后源码1800不可开发用<br>价格2：编译前源码5500 完整开源（推荐）<br>前端：<br>演示地址：<br>example.com:5864/example.com<br>演示账号：可自行注册<br>后端：<br>演示地址：<br>example.com:5864/HHHsbfengdou<br>账号和密码：请联系客服获取<br>搭建说明：<br>后端：<br>1、nginx、example.com、example.com<br>2、上传后端文件到网站根目录<br>3、设置伪静态thinkPHP，运行目录/public<br>4、导入数据库，修改数据库，/config/example.com<br>5、修改SMTP邮件发送配置<br>6、设置定时结算、项目进度任务，宝塔-计划任务<br>前端：<br>1、将项目导入到vscode<br>2、修改接口地址src/interface/example.com<br>3、安装依赖,项目终端-&gt;外部命令-&gt;npminstall<br>更新情况<br>0728更新：<br>增加PC页前台。<br>PC前台增加多语言翻译。<br>0818更新：<br>前台添加多语言切换，新增加英文、日文、泰语，可根据客户需要另外增加其他语种。<br>前台首页菜单、个人中心菜单增加外部链接跳转功能，可以自由添加外链。<br>前台固定图片替换为英文，方便在切换其他语种的查看。<br>后台商户增加银行卡、USDT余额提取。<br>前台余额增加USDT、卡的充值提取。<br>拍前必看：本店所售程序只供测试研究，不得使用于非法用途，不得违反国家法律，不得用于进行违法行为，否则后果自负！购买以后用作他用附带的一切法律责任后果都由购买者承担于本店无任何关系！拍下自动默认同意本店条款！<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/uHnOI" style="color: red;">https://mega-file.org/uHnOI</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
